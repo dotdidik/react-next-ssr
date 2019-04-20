@@ -1,0 +1,17 @@
+.hello{
+    color: brown
+}
+.carousel-bg{
+    background-color: white
+}
+.carousel-inner{
+    height: 250px;
+}
+
+.home-container{
+    padding-top: 30px;
+}
+
+.flex-space{
+    justify-content: space-between;
+}
